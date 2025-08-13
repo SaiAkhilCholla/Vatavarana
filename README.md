@@ -1,0 +1,1 @@
+This is a weather assistant web application called "Vātāvarana" (Sanskrit for "environment/atmosphere").It features a clean, minimalist interface, designed as a lightweight tool for weather-related queries or information. The streamlined design reflects a focus on simplicity and ease of use for weather assistance.
